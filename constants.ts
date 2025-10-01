@@ -63,13 +63,12 @@ export const WEAPONS_DATA: WeaponProgression[] = [
 export const DEVELOPERS_DATA: Developer[] = [
   {
     name: "Manoj Kumar",
-    id: "46645TP8",
-    email: "manojkumar@email.com",
+    Phone:"9618605978",
+    email: "bmanojkumar2976@email.com",
     imageUrl: "https://picsum.photos/seed/manoj/200",
   },
   {
     name: "Durga Prasad",
-    id: "ID Hidden",
     phone: "9598519935",
     email: "123durga@email.com",
     imageUrl: "https://picsum.photos/seed/durga/200",
